@@ -14,7 +14,6 @@ npx playwright install chromium
 ```bash
 npm test                    # headless
 npm run test:headed         # visible browser
-npx playwright test --ui    # interactive UI
 npm run report              # open HTML report
 ```
 
